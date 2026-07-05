@@ -14,4 +14,12 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Sanket4550/LeetCode-DSA/tree/master/1672-richest-customer-wealth) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
