@@ -1,6 +1,6 @@
-# LeetCode-DSA
+# LeetCode-DSA Questions 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# LeetCode-Topics
 ## Array
 |  |
 | ------- |
