@@ -1,19 +1,21 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int n = nums.length;
+        // (3 0 1)
+        // mN = 0
+        int missingNumber = 0;
 
-        int sumR = n * (n+1)/2;
+        // 0 1 2
+        //[3 0 1]
+        // i
+        // mN = 0 ^ (0 ^ 3) ^ (1 ^ 0) ^ (2 ^ 1) ^ (3)
 
-        int sumN = 0;
-
-        for(int num : nums){
-            sumN = sumN + num;
-
+        for (int i = 0; i < nums.length; i = i + 1){
+            missingNumber = missingNumber ^ (i ^ nums[i]);
         }
 
-        return sumR - sumN;
+        return missingNumber ^ nums.length;
 
-    //TC = O(n)
-    //SC = O(1)
+        //tc = O(n) 
+        //sc = O(1)
     }
 }
