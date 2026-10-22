@@ -69,4 +69,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
