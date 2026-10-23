@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0268-missing-number) |
@@ -52,6 +54,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0268-missing-number) |
 ## Enumeration
@@ -91,4 +94,16 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
