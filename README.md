@@ -11,6 +11,7 @@
 | [0268-missing-number](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [1672-richest-customer-wealth](https://github.com/Sanket4550/LeetCode-DSA/tree/master/1672-richest-customer-wealth) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sanket4550/LeetCode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
