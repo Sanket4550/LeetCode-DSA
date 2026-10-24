@@ -89,6 +89,7 @@
 | [0205-isomorphic-strings](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
