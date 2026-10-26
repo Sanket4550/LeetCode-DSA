@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0242-valid-anagram) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0204-count-primes) |
@@ -87,6 +89,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0242-valid-anagram) |
