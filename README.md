@@ -13,6 +13,7 @@
 | [0204-count-primes](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1672-richest-customer-wealth](https://github.com/Sanket4550/LeetCode-DSA/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sanket4550/LeetCode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -25,6 +26,7 @@
 | [0205-isomorphic-strings](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
