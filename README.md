@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
@@ -58,6 +59,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -95,6 +97,7 @@
 | [0011-container-with-most-water](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
