@@ -23,5 +23,8 @@ class Solution {
         }
 
         return maxwater;
+
+        //tc = O(N)
+        //Sc = O(1)
     }
 }
