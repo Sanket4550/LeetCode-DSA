@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0344-reverse-string) |
 ## String
@@ -134,4 +137,12 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
