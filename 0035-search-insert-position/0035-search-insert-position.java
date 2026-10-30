@@ -1,17 +1,17 @@
 class Solution {
     public int searchInsert(int[] nums, int target) {
-        int start = 0;
-        int end = nums.length-1;
+        int i = 0;
+        for(i = 0;i<nums.length;i++){
 
-        while(start <= end){
-            int mid = start + (end-start)/2;
-            if(nums[mid] == target) return mid;
-            else if (nums[mid] > target) end = mid -1;
-            else start = mid + 1;
+            if(nums[i]>=target){
+                return i;
+            }
         }
-        return start;
+        return i;
 
-        //tc = O(logn)
+
+        //tc = O(N)
         //sc = O(1)
+        //linear search binary is better
     }
 }
