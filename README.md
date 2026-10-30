@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0066-plus-one) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
