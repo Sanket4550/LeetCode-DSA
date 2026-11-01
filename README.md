@@ -118,6 +118,7 @@
 | [0125-valid-palindrome](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0205-isomorphic-strings](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
