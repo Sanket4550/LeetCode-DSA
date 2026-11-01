@@ -61,6 +61,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -109,6 +110,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -119,6 +121,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
@@ -165,4 +168,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
