@@ -1,33 +1,33 @@
 class Solution {
     public String longestPalindrome(String s) {
-        if(s == null||s.length() == 0){
-            return"";
-        }
+        int n = s.length();
+        int maxLen = 0;
+        int sp = 0;
 
-        String longest = "";
-
-        for(int i = 0; i < s.length(); i++){
-            String odd = expandAroundCenter(s,i,i);
-            String even = expandAroundCenter(s,i,i + 1);
-
-            if(odd.length() > longest.length()){
-                longest = odd;
-            }
-            if(even.length() > longest.length()){
-                longest = even;
+        for (int i = 0; i < n; i++) {
+            for (int j = i; j < n; j++) {
+                if (isPalin(s, i, j)) {
+                    int len = j - i + 1;
+                    if (maxLen < len) {
+                        maxLen = len;
+                        sp = i;
+                    }
+                }
             }
         }
-        return longest;
+        return s.substring(sp, sp + maxLen);
     }
 
-    private String expandAroundCenter(String s,int left,int right){
-        while(left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)){
-            left--;
-            right++;
+    private static boolean isPalin(String s, int i, int j) {
+        while (i < j) {
+            if (s.charAt(i) != s.charAt(j))
+                return false;
+            i++;
+            j--;
         }
-        return s.substring(left + 1,right);
-
-        //tc = O(N)
+        return true;
+    
+        //tc = O(N^2)
         //sc = O(1)
     }
 }
