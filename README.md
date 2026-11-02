@@ -42,6 +42,7 @@
 | [0268-missing-number](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [0344-reverse-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -187,4 +190,5 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
