@@ -20,6 +20,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
@@ -74,6 +75,7 @@
 | [0035-search-insert-position](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
@@ -162,6 +164,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
@@ -180,4 +183,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
