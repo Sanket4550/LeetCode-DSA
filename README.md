@@ -40,6 +40,7 @@
 | [0205-isomorphic-strings](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
@@ -132,6 +133,7 @@
 | [0205-isomorphic-strings](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -184,4 +186,5 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
