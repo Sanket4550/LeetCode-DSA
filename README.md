@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,4 +204,8 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
