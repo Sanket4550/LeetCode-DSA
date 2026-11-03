@@ -23,6 +23,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -42,6 +43,7 @@
 | [0205-isomorphic-strings](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -82,6 +84,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
@@ -96,6 +99,7 @@
 | [0169-majority-element](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Enumeration
 |  |
@@ -128,6 +132,7 @@
 | [0125-valid-palindrome](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0567-permutation-in-string) |
