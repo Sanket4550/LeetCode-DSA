@@ -63,6 +63,7 @@
 | [0066-plus-one](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
@@ -153,6 +154,7 @@
 | [0205-isomorphic-strings](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0567-permutation-in-string) |
@@ -222,4 +224,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Sanket4550/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
